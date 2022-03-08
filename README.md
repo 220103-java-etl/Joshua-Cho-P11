@@ -15,12 +15,12 @@ This application will allow users to request reinbursements for extra curricular
     - Use of HTML/Java Script to redirect user between webpages while navigating app
     - Persists User data and Reinbursement Requests via DBeaver and Servlets
     
-    <h3> stretch goals </h3>
+   <h3> stretch goals </h3>
     -Password recovery
     -Manager ability to request grade of course before moving to accept/reject request
     -expand on Reinbursement request form
     
-    <h2> Usage </h2>
+   <h2> Usage </h2>
     To use this app simply follow these Steps:
     
     1: Log into account, if not registered prior, use register button to generate a user account by following prompts.
