@@ -9,13 +9,13 @@ This application will allow users to request reinbursements for extra curricular
   -DBeaver
   -InteliJ
   
-  <h2> Features <h2>
+  * <h2> Features <h2>
     - Login/register feature <br/>
     - Use of servlets to persist data to an AWS<br/>
     - Use of HTML/Java Script to redirect user between webpages while navigating app<br/>
     - Persists User data and Reinbursement Requests via DBeaver and Servlets
     
-   <h3> stretch goals </h3>
+    * <h3> stretch goals </h3>
     -Password recovery
     -Manager ability to request grade of course before moving to accept/reject request
     -expand on Reinbursement request form
