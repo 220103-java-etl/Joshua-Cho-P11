@@ -10,9 +10,9 @@ This application will allow users to request reinbursements for extra curricular
   -InteliJ
   
   <h2> Features <h2>
-    - Login/register feature
-    - Use of servlets to persist data to an AWS
-    - Use of HTML/Java Script to redirect user between webpages while navigating app
+    - Login/register feature <br/>
+    - Use of servlets to persist data to an AWS<br/>
+    - Use of HTML/Java Script to redirect user between webpages while navigating app<br/>
     - Persists User data and Reinbursement Requests via DBeaver and Servlets
     
    <h3> stretch goals </h3>
